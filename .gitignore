@@ -1,0 +1,6 @@
+ecommerce-app/node_modules/
+ecommerce-app/build/*
+ecommerce-app/package-lock.json
+
+ecommerce-backend/node_modules/
+ecommerce-backend/package-lock.json
